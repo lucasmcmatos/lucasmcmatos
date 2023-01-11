@@ -1,8 +1,6 @@
 
 
-# Olá eu sou o Lucas Matos 🤚
-
-<br/>
+# Olá eu sou o Lucas🤚
 
 ## Tecnologias que ultilizo
 
